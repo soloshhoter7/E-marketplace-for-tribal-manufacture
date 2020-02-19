@@ -1,0 +1,37 @@
+
+.fl{
+    margin-right: 0;
+  }
+  
+  .flex-container{
+    display: flex;
+  }
+  
+  
+  .bord{
+    border:1px solid #ddd;
+  
+    float: left;
+  
+  }
+  
+  .bord1{
+    border-style: dashed;
+    width: 30%;
+    float: right;
+    margin-left: 10%;
+  }
+  .simg{
+    margin-top: 7px;
+   padding: 5px;
+   width: 112px;
+   height: 112px;
+  }
+
+.border-box{
+  margin-right: 10px;
+  border-radius: 5px;
+}
+.border-box:hover{
+  border:1px solid gray;
+}

@@ -1,0 +1,193 @@
+select#dropdown-menu{
+    border: none;
+    border:0px;
+    outline:0px;
+    }
+    
+    .inc-spec{
+      border-right: 1px solid #ddd;
+      border-left: 1px solid #ddd;
+      border-top: 1px solid #ddd;
+      border-bottom: 1px solid #ddd;
+      padding: 10px;
+    }
+    
+    .inc-gen{
+      border-right: 1px solid #ddd;
+      border-left: 1px solid #ddd;
+      padding-left: 10px;
+      padding-top: 10px;
+      padding-bottom: 5px;
+      font-size: 10px;
+    }
+    
+    .inpat{
+      border-right: 1px solid #ddd;
+      border-bottom: 1px solid #ddd;
+      border-left: 1px solid #ddd;
+    }
+    
+    ul {
+        padding: 0;
+        padding-left: 14px;
+    }
+    
+    *{
+      box-sizing: border-box;
+    }
+    
+    input:focus, textarea:focus, select:focus{
+    
+        outline: none;
+    
+    }
+    
+    .picode{
+        border-bottom: 100px;
+        border-color: blue;
+    }
+    
+    table{
+      border: none;
+      background: transparent;
+    }
+    
+    input {
+        border: none;
+        background: transparent;
+        border-bottom: 3px solid black;
+    }
+    
+    
+    .bt-h{
+        width: 247;
+        height: 75;
+    }
+    
+    .fx{
+      position: fixed;
+    }
+    
+    .fx-r{
+      float: right;
+      position: fixed; 
+    }
+    
+    .mimg{
+      border: 1px solid #ddd;
+     border-radius: 4px;
+     padding: 5px;
+     width: 500px;
+     height: 400px;
+    }
+    .simg{
+      margin-top: 7px;
+      border: 1px solid #ddd;
+     border-radius: 4px;
+     padding: 5px;
+     width: 75px; 
+     margin-right: 20px;
+    }
+    html, body {
+        width: 100%;
+        height: 100%;
+        position:fixed;
+        top:0;
+        bottom:0;
+        left:0;
+        right:0;
+        outline:0px;
+    }
+ 
+  .inc-spec{
+    border-right: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  .inc-gen{
+    border-right: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-size: 10px;
+  }
+  
+  .inpat{
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+  }
+  
+  ul {
+      padding: 0;
+      padding-left: 14px;
+  }
+  
+  *{
+    box-sizing: border-box;
+  }
+  
+  input:focus, textarea:focus, select:focus{
+  
+      outline: none;
+  
+  }
+  
+  .picode{
+      border-bottom: 100px;
+      border-color: blue;
+  }
+  
+  table{
+    border: none;
+    background: transparent;
+  }
+  
+  input {
+      border: none;
+      background: transparent;
+      border-bottom: 3px solid black;
+  }
+  
+  
+  .bt-h{
+      width: 247;
+      height: 75;
+  }
+  
+  .fx{
+    position: fixed;
+  }
+  
+  .fx-r{
+    float: right;
+    position: fixed ;
+  }
+  
+  .mimg{
+    border: 1px solid #ddd;
+   border-radius: 4px;
+   padding: 5px;
+   width: 500px;
+   height: 400px;
+  }
+  .simg{
+    margin-top: 7px;
+    border: 1px solid #ddd;
+   border-radius: 4px;
+   padding: 5px;
+   width: 75px;
+  }
+  html, body {
+      width: 100%;
+      height: 100%;
+      position:fixed;
+      top:0;
+      bottom:0;
+      left:0;
+      right:0;
+  }
